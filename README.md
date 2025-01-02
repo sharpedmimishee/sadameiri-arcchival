@@ -11,6 +11,7 @@ The name of this font is read as "Sadameiri".
 - 変体仮名や合略仮名などを含む殆どの仮名をフォントに含めること。
 - ラテン文字やキリル文字といった欧米の文字の殆どが利用できること。
 - 一般的な記号が利用できること。
+
 とされます。変体仮名は280字以上が2025年時点で一般的に一種類の文字として利用可能だそうですので、仮名だけでも300字以上ということとなります。
 当然、一人の人間が別のことをし乍らも作っていくことになりますので制作時間は長くなります。  
 Although it is vague, the goals and features of this font are:
@@ -19,5 +20,6 @@ Although it is vague, the goals and features of this font are:
 - Include most kana, including variant kana and abbreviated kana.
 - Ability to use most Western characters such as Latin and Cyrillic.
 - Ability to use common symbols.
+
 As of 2025, more than 280 variant kana characters are already generally usable as a type of character, so that means more than 300 kana characters alone.
 Naturally, it will take a long time to create as one person will be creating it while working on other things.
