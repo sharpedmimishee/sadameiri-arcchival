@@ -30,5 +30,6 @@ The arcchival is pixel fonts.
 ### 此のフォント群の特徴
 多くの(ピクセルの)種類があります。  
 There are many types (of pixel) of fonts available.  
-- lightengazer
-- caliurmium
+- lightengazer: 8x8 size font.
+  - lighticalgazer 7x7 size font derived from lightengazer.
+- caliurmium: 16x16 size font.
