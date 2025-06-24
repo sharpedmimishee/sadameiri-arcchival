@@ -26,7 +26,7 @@ As of 2025, more than 280 variant kana characters are already generally usable a
 arcchivalはピクセルフォントです。  
 The arcchival is pixel fonts.  
 ### Pronunciation
-此のフォント群名は「あーしゃいゔぁる」と読むこととします。
+此のフォント群名は「ɑːʃaɪvəl」と読むこととします。
 ### 此のフォント群の特徴
 多くの(ピクセルの)種類があります。  
 There are many types (of pixel) of fonts available.  
