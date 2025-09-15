@@ -22,12 +22,17 @@ Although it is vague, the goals and features of this font are:
 - Ability to use common symbols.
 
 As of 2025, more than 280 variant kana characters are already generally usable as a type of character, so that means more than 300 kana characters alone.
+### このフォント群の一覧
+様々な書体があります。
+- 定要(sadame-iri): standard font of Sadame-iri series.
+  - 定明(sadame-akari): standard serif/minchotai font of Sadame-iri series.
+
 ## font arcchival
 arcchivalはピクセルフォントです。  
 The arcchival is pixel fonts.  
 ### Pronunciation
 此のフォント群名は「ɑːʃaɪvəl」と読むこととします。
-### 此のフォント群の特徴
+### 此のフォント群の一覧
 多くの(ピクセルの)種類があります。  
 There are many types (of pixel) of fonts available.  
 - lightengazer: 8x8 (standard, not monospaced.) size font.
