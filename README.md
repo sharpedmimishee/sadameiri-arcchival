@@ -39,3 +39,4 @@ There are many types (of pixel) of fonts available.
   - lighticalgazer: 7x7 (standard, not monospaced.) size font derived from lightengazer.
 - caliurmium: 16x16 size font.
 - wanderingdistracter: mismatched pixel font.
+- quatlizate: grid pixel font.
