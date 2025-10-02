@@ -26,6 +26,7 @@ As of 2025, more than 280 variant kana characters are already generally usable a
 様々な書体があります。
 - 定要(sadame-iri): standard font of Sadame-iri series.
   - 定明(sadame-akari): standard serif/minchotai font of Sadame-iri series.
+  - 定書(sadame-gaki): standard font that replicates someone's handwriting.
 
 ## font arcchival
 arcchivalはピクセルフォントです。  
